@@ -17,8 +17,7 @@ How to get script to run:
 
 
 To run script:
-`bash`
-python main.py
-`bash`
+
+`python main.py`
 
 
